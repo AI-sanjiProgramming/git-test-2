@@ -9,5 +9,10 @@
       <h1>Hello World</h1>
 
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, quos?</p>
+
+      <ul>
+            <li>list item</li>
+      </ul>
+
 </body>
 </html>
